@@ -1,2 +1,3 @@
-# CSE204-Data-Structures-and-Algorithm-I-Sessional
-This repository consists of the data-structures and algorithms, I implemented for the lab course CSE204: Data Structures and Algorithm I Sessional.
+# CSE208: DATA STRUCTURES AND ALGORITHMS I
+
+The course was offered in level-2 term-1 at BUET. The course was taught by [Dr. Abul Kashem Mia](https://cse.buet.ac.bd/faculty/facdetail.php?id=kashem) and by [Dr. Sadia Sharmin](https://cse.buet.ac.bd/faculty/facdetail.php?id=sadia). The course was divided into two parts. The first part was about data structures and the second part was about algorithms.
